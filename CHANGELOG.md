@@ -3,8 +3,8 @@ x.x.x Release notes (yyyy-MM-dd)
 
 ### API breaking changes
 
-* The `key` parameter of `objectForPrimaryKey(_:, key:)` is 
-  now marked as optional.
+* The `key` parameter of `objectForPrimaryKey(_:, key:)`/ `dynamicObjectForPrimaryKey(_:, key:)`
+ is now marked as optional.
 
 ### Enhancements
 
